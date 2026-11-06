@@ -1,39 +1,96 @@
-# Hey there! 👋 I'm Mohamed Rashad
+# Hey there! I'm Mohamed Rashad 👋
 
-🎓 AI & Data Science Student | Aspiring Software Engineer
+### AI & Data Science Student | Aspiring Software Engineer
 
-I'm passionate about Artificial Intelligence, Machine Learning, Data Science and Software Development.
+I'm an undergraduate student passionate about building practical solutions using Artificial Intelligence, Machine Learning and Software Engineering.
 
-### 🚀 Featured Projects
+I enjoy exploring new technologies, solving problems and turning ideas into working applications.
 
-✈️ **AeroSim – Aircraft Predictive Maintenance**
-- Aerospace-focused AI/ML project.
-- Aircraft component failure prediction and 3D visualization.
-- Built as part of BUILDX Hackathon 2026.
-- [View Repository](https://github.com/Samxxr007/AEROSIM)
+---
 
-💊 **SPIS – Pharmacy Management System**
-- Database management application.
-- Built using SQL and database concepts.
-- [View Repository](https://github.com/Rashad-007/Pharmacy-Management-System)
+### 🚀 About Me
 
-🦖 **Dino Game**
-- Python-based game development project.
-- [View Repository](https://github.com/Rashad-007/dino_game)
+- 🎓 B.Tech in Artificial Intelligence & Data Science (2024–2028)
+- 💻 Interested in AI, ML, Data Science and Software Development.
+- 🧠 Currently strengthening my DSA and programming fundamentals.
+- 🔬 Exploring predictive analytics and intelligent systems.
+- 🤝 Interested in internships, hackathons and collaborative projects.
 
-### 💻 Technical Skills
+---
 
-- Languages: Python, C, SQL, JavaScript
-- Web: HTML, CSS
-- Database: MySQL
-- Tools: Git, GitHub, VS Code
+### 🛠️ Tech Stack
 
-### 📫 Connect With Me
+**Programming Languages**
+- Python
+- C
+- SQL
+- JavaScript
 
-- [LinkedIn](https://linkedin.com/in/yousufrashad)
-- [GitHub](https://github.com/Rashad-007)
-- [Portfolio](https://portfolio-rashad.netlify.app/)
+**Web Technologies**
+- HTML
+- CSS
 
+**Database**
+- MySQL
+
+**Tools**
+- Git & GitHub
+- VS Code
+
+---
+
+### 🌟 Featured Projects
+
+**✈️ AeroSim – Aircraft Predictive Maintenance**
+
+An aerospace-focused project exploring aircraft component failure prediction and 3D aircraft visualization.
+
+- Developed as part of BUILDX Hackathon 2026.
+- Contributed to 3D aircraft model improvements.
+- Repository: https://github.com/Samxxr007/AEROSIM
+
+**💊 SPIS – Pharmacy Management System**
+
+A database-driven pharmacy management application.
+
+- Medicine and inventory management.
+- Supplier and prescription management.
+- Expiry tracking using SQL queries.
+
+Repository: https://github.com/Rashad-007/Pharmacy-Management-System
+
+**🦖 Dino Game**
+
+A Python-based game development project.
+
+Repository: https://github.com/Rashad-007/dino_game
+
+---
+
+### 💼 Experience
+
+- NSIC – Summer Internship in Machine Learning with Python.
+- Currently gaining additional internship experience.
+
+---
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rashad-007&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashad-007&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/yousufrashad
+- Portfolio: https://portfolio-rashad.netlify.app/
+- GitHub: https://github.com/Rashad-007
+
+---
+
+⭐ Always learning, building and exploring new technologies!
 <!--
 **Rashad-007/Rashad-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
